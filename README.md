@@ -7,3 +7,7 @@
 
 # Changes
 - Update top two lines in Makefile with service name and project-id
+
+# GCP
+- Acticvate Cloud Run: https://console.cloud.google.com/run
+- Acticvate Container Registry: https://console.cloud.google.com/gcr
