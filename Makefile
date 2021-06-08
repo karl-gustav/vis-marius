@@ -1,4 +1,4 @@
-GPC_PROJECT_ID=hkraft-iot
+GPC_PROJECT_ID=marius-cloud
 SERVICE_NAME=vis-marius
 CONTAINER_NAME=eu.gcr.io/$(GPC_PROJECT_ID)/$(SERVICE_NAME)
 
