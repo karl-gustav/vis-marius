@@ -1,7 +1,7 @@
 # Use the offical Golang image to create a build artifact.
 # This is based on Debian and sets the GOPATH to /go.
 # https://hub.docker.com/_/golang
-FROM golang:1.13-alpine as builder
+FROM golang:1.16-alpine as builder
 
 RUN apk update
 # Add required certificates to be able to call HTTPS endpoints.
